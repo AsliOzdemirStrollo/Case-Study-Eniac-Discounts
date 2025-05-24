@@ -20,14 +20,14 @@ The company has high hopes put into the possibilities that come with Data Analys
 
 ## Business Questions
 
-![Image Alt Text](image1.jpg)
+![Image Alt Text](image1.png)
 
 
 So, to guide **Eniac** with these 2 aspects, we have gathered some data from Magist & showcased the insights which will be helpful for Eniac to decide.
 
 ## Project Overview
 
-![Image Alt Text](image2.jpg)
+![Image Alt Text](image2.png)
 
 ## Key Learnings:
 1. Data Cleaning.

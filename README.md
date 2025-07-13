@@ -38,7 +38,6 @@ So, to guide **Eniac** with these 2 aspects, we have gathered some data from Mag
 6. Present the findings with recommendation.
 
 ## Approach
-The p:
 
 Our approach to solving the problem is 4-step: 
 
